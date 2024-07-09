@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 72.9333,
+        "lat": 22.5667
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 312.14,
+        "feels_like": 312.27,
+        "temp_min": 312.14,
+        "temp_max": 312.14,
+        "pressure": 1001,
+        "humidity": 24,
+        "sea_level": 1001,
+        "grnd_level": 997
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.8,
+        "deg": 212,
+        "gust": 5.49
+    },
+    "clouds": {
+        "all": 42
+    },
+    "dt": 1717411999,
+    "sys": {
+        "type": 1,
+        "id": 9060,
+        "country": "IN",
+        "sunrise": 1717374199,
+        "sunset": 1717422594
+    },
+    "timezone": 19800,
+    "id": 1278685,
+    "name": "Anand",
+    "cod": 200
+}
